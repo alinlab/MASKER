@@ -8,6 +8,8 @@ by [Seung Jun Moon*](https://github.com/SeungJunnn), [Sangwoo Mo*](https://sites
 
 ### Download base dataset
 
+Download datasets from [Google Drive](https://drive.google.com/file/d/19Y3qgBosuysAaQtV5SFIxDfwxA7DztSr/view?usp=sharing) and locate files in `./dataset`.
+
 Set `DATA_PATH` (default: `./dataset`) and `CKPT_PATH` (default: `./checkpoint`) from `common.py`.
 Datafiles should be located in the corresponding directory `DATA_PATH/{data_name}`.
 For example, IMDB datafiles should be located in `DATA_PATH/imdb/imdb.txt`.
