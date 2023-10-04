@@ -1,7 +1,7 @@
 # MASKER: Masked Keyword Regularization for Reliable Text Classification
 
 Official PyTorch implementation of ["**MASKER: Masked Keyword Regularization for Reliable Text Classification**"](https://arxiv.org/abs/2012.09392) (AAAI 2021)
-by [Seung Jun Moon*](https://github.com/SeungJunnn), [Sangwoo Mo*](https://sites.google.com/view/sangwoomo), [Kimin Lee](https://sites.google.com/view/kiminlee),
+by [Seung Jun Moon*](https://seungjun-moon.github.io/tabs/about.html), [Sangwoo Mo*](https://sites.google.com/view/sangwoomo), [Kimin Lee](https://sites.google.com/view/kiminlee),
 [Jaeho Lee](https://jaeho-lee.github.io/), and [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html).
 
 ## Setup
